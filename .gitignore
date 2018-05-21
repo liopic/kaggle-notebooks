@@ -1,5 +1,7 @@
 input/*.csv
+input/*.txt
 output/*.csv
+output/*.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
